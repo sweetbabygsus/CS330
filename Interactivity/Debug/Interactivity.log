@@ -1,0 +1,10 @@
+﻿  interactivity.cpp
+C:\Users\18456\OneDrive\Desktop\module6scene\module6scene\Interactivity\interactivity.cpp(209,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\18456\OneDrive\Desktop\module6scene\module6scene\Interactivity\interactivity.cpp(317,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\18456\OneDrive\Desktop\module6scene\module6scene\Interactivity\interactivity.cpp(318,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\18456\OneDrive\Desktop\module6scene\module6scene\Interactivity\interactivity.cpp(322,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\18456\OneDrive\Desktop\module6scene\module6scene\Interactivity\interactivity.cpp(324,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\18456\OneDrive\Desktop\module6scene\module6scene\Interactivity\interactivity.cpp(326,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\18456\OneDrive\Desktop\module6scene\module6scene\Interactivity\interactivity.cpp(327,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\18456\OneDrive\Desktop\module6scene\module6scene\Interactivity\interactivity.cpp(336,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Interactivity.vcxproj -> C:\Users\18456\OneDrive\Desktop\module6scene\module6scene\Debug\Interactivity.exe
